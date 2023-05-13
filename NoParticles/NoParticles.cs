@@ -36,9 +36,10 @@ public sealed partial class NoParticles : Mod {
 		"Flame Trail(Clone)", // NKG Dive Dash trails
 		"Gas Projectile(Clone)", // Fungoon atk
 		"Mega Jelly Zap(Clone)", // Uumuu Chase
+		"Grimm UP Ball(Clone)", // TMG Dash Uppercut fireballs
 		"Nightmare UP Ball(Clone)", // NKG Dash Uppercut fireballs
 		"particle_orange blood(Clone)", // Flukemarm Spawn
-		"Pt Afterburn", // NKG Flame Pillars remains
+		"Grimm_flare_pillar(Clone)", // NKG Flame Pillars
 		"Shot Markoth Nail(Clone)"
 	};
 
